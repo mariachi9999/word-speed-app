@@ -1,3 +1,14 @@
+# Project review
+
+This project has been created for academic purpose, related to Jalasoft's bootcamp.
+It wish to measure your typing speed.
+
+Below you can see the instructions to run it and take a look!
+
+Happy coding! 😎
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  width: 100vw;
 }
 
 .App-logo {
@@ -22,6 +23,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  justify-content: space-around;
 }
 
 .App-link {
@@ -35,4 +37,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#title {
+  width: 70%;
+}
+
+#input {
+  width: 70%;
+}
+
+#speed {
+  width: 70%;
 }
